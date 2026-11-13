@@ -1,7 +1,7 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
 name: Build
 
-# Builds the DMG. Runs on its own for pull requests (build check + downloadable artifact) and is
+# Builds the DMG.  Runs on its own for pull requests (build check + downloadable artifact) and is
 # called by release.yml, which attaches what it uploads to a draft release.
 #
 # Optional repository variables:
